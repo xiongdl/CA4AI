@@ -29,9 +29,15 @@ Awesome Materials on Topic "Advanced Chips and Architecture".
 - 2018 OSDI - TVM: An Automated End-to-End Optimizing Compiler for Deep Learning.
   - Keyword: Deep Learning Compiler
   - Website: https://github.com/apache/tvm
-- 2019 IEEE Micro - A Hardware-Software Blueprint for Flexible Deep Learning Specialization
-  - Keyword: Deep Learning Accelerator
-  - Website: https://github.com/apache/tvm-vta 
+- 2019 IEEE Micro - A Hardware-Software Blueprint for Flexible Deep Learning Specialization.
+  - Keyword: Deep Learning Accelerator; Chisel
+  - Website: https://github.com/apache/tvm-vta
+- 2021 DAC - Gemmini: Enabling Systematic Deep-Learning Architecture Evaluation via Full-Stack Integration.
+  - Keyword: Deep Learning Accelerator; Chisel
+  - Website: https://github.com/ucb-bar/gemmini
+- 2025 ASPDAC - OpenGEMM: A High-Utilization GEMM Accelerator Generator with Lightweight RISC-V Control and Tight Memory Coupling.
+  - Keyword: Deep Learning Accelerator; Chisel
+  - Website: https://github.com/KULeuven-MICAS/snax_cluster
 
 
 # Book
