@@ -2,6 +2,7 @@
 Awesome Materials on Topic "Advanced Chips and Architecture". 
 
 # Table of Contents
+- [OpenSource](#open-source)
 - [Book](#book)
 - [Course](#course)
 - [Tutorial](#tutorial)
@@ -12,7 +13,6 @@ Awesome Materials on Topic "Advanced Chips and Architecture".
   - [Analytical Framework](#analytical-framework)
   - [Cycle-Accurate Simulator](#cycle-accurate-simulator)
   - [DSA for NN](#dsa-for-nn)
-  - [DSA for Robot](#dsa-for-robot)
   - [Sparse Matrix Multiplication](#sparse-matrix-multiplication)
   - [In-Memory Computing](#in-memory-computing)
   - [Quantization](#quantization)
@@ -24,6 +24,15 @@ Awesome Materials on Topic "Advanced Chips and Architecture".
   - 2017: [JSSC](#2017-jssc)
   - 2016: [ISCA](#2016-isca), [ISSCC](#2016-isscc)
   - Before 2000: [OldenDays](#oldendays)
+
+# Open Source
+- 2018 OSDI - TVM: An Automated End-to-End Optimizing Compiler for Deep Learning.
+  - Keyword: Deep Learning Compiler
+  - Website: https://github.com/apache/tvm
+- 2019 IEEE Micro - A Hardware-Software Blueprint for Flexible Deep Learning Specialization
+  - Keyword: Deep Learning Accelerator
+  - Website: https://github.com/apache/tvm-vta 
+
 
 # Book
 - 2024 Springer - Towards Heterogeneous Multi-core Systems-on-Chip for Edge Machine Learning.
